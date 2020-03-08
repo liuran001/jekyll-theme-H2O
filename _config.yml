@@ -18,7 +18,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  酷安: '//coolapk.com'
+  coolapk: '//coolapk.com'
 
 # Footer
 footer:
